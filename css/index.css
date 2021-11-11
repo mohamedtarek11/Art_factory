@@ -1,0 +1,171 @@
+/* =============================================header================================== */
+/* =============================================header================================== */
+/* =============================================header================================== */
+
+.header{
+ 
+    background-image: url("../images/task\ back.png");
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 70px;
+    padding-bottom: 50px;
+
+
+}
+
+ .header .nav-link{
+     
+     color: white !important;
+ }
+ .header .nav-link:hover{
+     color: #dc3545 !important;
+ }
+
+.navlist{
+    margin-right: 60px;
+}
+.navlist li{
+    margin: 0px 15px;
+}
+.secondsec{
+    margin-bottom: 40px;
+}
+.divimg{
+    margin-bottom: 40px;
+    padding-bottom: 50px;
+
+}
+.secondsec .secondtext{
+    color: white;
+    font-size: 66px;
+    margin: 35px 0px;
+}
+.secondsec .secondp{
+    color: white;
+    font-size: 18px;
+    margin: 25px 0px;
+}
+.secondsec .secbot{
+    border-radius: 20px;
+}
+/* ======================================================================== */
+/* ==================================third section====================================== */
+
+.thirdsec{
+   
+    margin-bottom: 80px;
+}
+.thirdsec .thirdtext{
+    margin-top: 60px;
+}
+.thirdsec .thirdp1{
+    line-height: 25px;
+    color: gray;
+}
+.thirdsec .thirdp{
+    margin-top: 25px;
+    margin-bottom: 40px;
+    line-height: 25px;
+    color: gray;
+}
+.thirdsec .thirdbut{
+    border-radius: 20px;
+}
+
+     
+
+/* ========================================third sec=============================== */
+
+
+.fourthsec .foutdiv1{
+    display: flex;
+}
+.fourthsec .foutdiv1 .sourthtext{
+    margin-left: 20px;
+    
+}
+
+.fourthsec .foutdiv1 .sourthtext .fourthtexth{
+    margin-bottom: 23px;
+}
+.fourthtexthf{
+    margin-bottom: 23px;
+
+}
+.fourthtextpf{
+       line-height: 34px;
+    color:gray
+}
+.fourthsec .foutdiv1 .sourthtext .fourthtextp {
+    line-height: 34px;
+    color:gray
+}
+/* ========================================================================== */
+.secfife{
+
+    background-color: rgb(0 136 232);
+    padding-top: 70px;
+    margin-bottom: 50px;
+    padding-bottom: 40px;
+    margin-top: 50px;
+
+}
+.secfife .fifecard{
+    height:400px;
+    width: 100%;
+    background-color: rgb(255 255 255);
+    text-align: center;
+    padding-top: 55px;
+    padding-top: 30px;
+
+    margin-bottom: 50px;
+
+
+}
+.secfife .fifecard .fifetext{
+    color: gray;
+    margin:25px 0px;
+}
+.secfife .fifecard .fifiehtext{
+    margin:25px 0px;
+}
+.secfife .fifecard img{
+    width: 95px;
+}
+
+/* ======================================================== */
+/* ============================section six============================= */
+.sixsec{
+    padding: 30px 0px;
+     text-align: center;
+     margin: 20px 0px;
+}
+.sixp{
+    color: gray;
+    margin-top: 20px ;
+    font-size: 16px;
+}
+/* ============================================================== */
+/* ============================================================== */
+/* ==================================section seven=========================== */
+.sevtotal{
+    height: 600px;
+}
+.sevptext1{
+    color: gray;
+    line-height: 30px;
+    margin-bottom: 35px;
+}
+.sevptext2{
+    color:gray;
+    line-height: 30px;
+}
+.sevhtext2 span{
+    color:blue;
+}
+.sevbtn{
+    margin-top: 25px;
+    border-radius: 20px !important;
+    background-color: #00b4c6 !important;
+    border-color: #00b4c6 !important;
+}
